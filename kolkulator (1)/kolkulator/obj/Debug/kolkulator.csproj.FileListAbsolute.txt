@@ -1,0 +1,22 @@
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\bin\Debug\kolkulator.exe.config
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\bin\Debug\kolkulator.exe
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\bin\Debug\kolkulator.pdb
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\obj\Debug\kolkulator.csproj.AssemblyReference.cache
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\obj\Debug\kolkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\obj\Debug\kolkulator.Form1.resources
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\obj\Debug\kolkulator.Properties.Resources.resources
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\obj\Debug\kolkulator.csproj.GenerateResource.cache
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\obj\Debug\kolkulator.csproj.CoreCompileInputs.cache
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\obj\Debug\kolkulator.exe
+C:\Users\Максим\OneDrive\Рабочий стол\kolkulator (1)\kolkulator\obj\Debug\kolkulator.pdb
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\bin\Debug\kolkulator.exe.config
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\bin\Debug\kolkulator.exe
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\bin\Debug\kolkulator.pdb
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\obj\Debug\kolkulator.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\obj\Debug\kolkulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\obj\Debug\kolkulator.Form1.resources
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\obj\Debug\kolkulator.Properties.Resources.resources
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\obj\Debug\kolkulator.csproj.GenerateResource.cache
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\obj\Debug\kolkulator.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\obj\Debug\kolkulator.exe
+C:\Users\student\Desktop\kolkulator (1)\kolkulator\obj\Debug\kolkulator.pdb
